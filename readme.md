@@ -1,0 +1,1 @@
+Projeto de um aplicativo de tarefas com python usando front e back-end no mesmo código. / Project of a task application with Python using front and back-end in the same code
